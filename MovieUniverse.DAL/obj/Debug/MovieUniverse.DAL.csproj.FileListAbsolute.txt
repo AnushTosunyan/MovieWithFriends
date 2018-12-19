@@ -1,0 +1,2 @@
+C:\Users\anush\Downloads\MovieUniverse\MovieUniverse\MovieUniverse.DAL\obj\Debug\MovieUniverse.DAL.csprojResolveAssemblyReference.cache
+C:\Users\anush\Downloads\MovieUniverse\MovieUniverse\MovieUniverse.DAL\obj\Debug\MovieUniverse.DAL.csproj.CoreCompileInputs.cache
